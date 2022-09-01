@@ -1,0 +1,22 @@
+---
+- mystudents:
+  - name: anil
+    phono: 89898989989
+    address: 
+      doorno: 534  
+      street: 2
+      pincode: 78787878
+
+  - name: sunil
+    phono: 797979797
+    address:
+       doorno: 676
+       street: 3
+       pincode: 56565665
+
+  - name: venil
+    phono: 8989898
+    address: 
+        doorno: 676
+        street: 1
+        pincode: 76767
