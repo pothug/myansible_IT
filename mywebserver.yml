@@ -1,0 +1,9 @@
+---
+- hosts: all
+  become: yes
+  tasks: 
+  - name: i want to install apache2 webserver on ubuntu ansible nodes
+    apt:
+      name: apache2
+      state: present
+      
